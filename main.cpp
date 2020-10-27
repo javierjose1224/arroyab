@@ -5,5 +5,8 @@ using namespace std;
 int main()
 {
     cout << "Hello World!" << endl;
-    return 0;
+    cout << "I'm learning..." << endl;
+    cout << "cosas" << endl;
+    cout << "raras" << endl;
+    cout << "NO c que pasóooooooooooo. " << endl;
 }
